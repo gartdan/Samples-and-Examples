@@ -1,0 +1,5 @@
+C:\code\Primes\PrimesCalculator\bin\Debug\PrimesCalculator.exe
+C:\code\Primes\PrimesCalculator\bin\Debug\PrimesCalculator.pdb
+C:\code\Primes\PrimesCalculator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\code\Primes\PrimesCalculator\obj\x86\Debug\PrimesCalculator.exe
+C:\code\Primes\PrimesCalculator\obj\x86\Debug\PrimesCalculator.pdb

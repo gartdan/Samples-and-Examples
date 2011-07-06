@@ -1,0 +1,42 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="007B7065-51E1-4983-AD25-84464C40E129/f:Primality.cs" caret="450" fromTop="17" />
+      <File id="007B7065-51E1-4983-AD25-84464C40E129/f:Extensions.cs" caret="450" fromTop="14" />
+      <File id="007B7065-51E1-4983-AD25-84464C40E129/f:TimeKeeper.cs" caret="215" fromTop="10" />
+      <File id="007B7065-51E1-4983-AD25-84464C40E129/f:Program.cs" caret="542" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="007B7065-51E1-4983-AD25-84464C40E129/f:Primality.cs" caret="1516" fromTop="31" />
+      <File id="007B7065-51E1-4983-AD25-84464C40E129/f:Primality.cs" caret="1014" fromTop="31" />
+      <File id="007B7065-51E1-4983-AD25-84464C40E129/f:Program.cs" caret="157" fromTop="5" />
+      <File id="007B7065-51E1-4983-AD25-84464C40E129/f:Program.cs" caret="907" fromTop="16" />
+      <File id="007B7065-51E1-4983-AD25-84464C40E129/f:Extensions.cs" caret="450" fromTop="14" />
+      <File id="007B7065-51E1-4983-AD25-84464C40E129/f:Program.cs" caret="1133" fromTop="15" />
+      <File id="007B7065-51E1-4983-AD25-84464C40E129/f:TimeKeeper.cs" caret="398" fromTop="16" />
+      <File id="007B7065-51E1-4983-AD25-84464C40E129/f:TimeKeeper.cs" caret="258" fromTop="12" />
+      <File id="007B7065-51E1-4983-AD25-84464C40E129/f:Program.cs" caret="907" fromTop="14" />
+      <File id="007B7065-51E1-4983-AD25-84464C40E129/f:Program.cs" caret="527" fromTop="8" />
+      <File id="007B7065-51E1-4983-AD25-84464C40E129/f:Program.cs" caret="1089" fromTop="17" />
+      <File id="007B7065-51E1-4983-AD25-84464C40E129/f:Program.cs" caret="783" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
