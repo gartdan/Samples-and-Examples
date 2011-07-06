@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ScriptCombining">
+</Property><Property Name="Solution File" Value="C:\code\ScriptCombining\ScriptCombining.sln">
+</Property><Property Name="User Options File" Value="C:\code\ScriptCombining\ScriptCombining.suo">
+</Property><Property Name="Date" Value="Friday, June 24, 2011">
+</Property><Property Name="Time" Value="12:53 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ScriptCombining.sln" Description="File successfully backed up as C:\code\ScriptCombining\Backup\ScriptCombining.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ScriptCombining.suo" Description="File successfully backed up as C:\code\ScriptCombining\Backup\ScriptCombining.suo">
+</Event><Event ErrorLevel="0" Project="ScriptCombining" Source="ScriptCombining\ScriptCombining.csproj" Description="Project file successfully backed up as C:\code\ScriptCombining\Backup\ScriptCombining\ScriptCombining.csproj">
+</Event><Event ErrorLevel="0" Project="ScriptCombining" Source="ScriptCombining\ScriptCombining.csproj.user" Description="Project user file successfully backed up as C:\code\ScriptCombining\Backup\ScriptCombining\ScriptCombining.csproj.user">
+</Event><Event ErrorLevel="0" Project="ScriptCombining" Source="ScriptCombining\Default.aspx.cs" Description="File successfully backed up as C:\code\ScriptCombining\Backup\ScriptCombining\Default.aspx.cs">
+</Event><Event ErrorLevel="0" Project="ScriptCombining" Source="ScriptCombining\Default.aspx.designer.cs" Description="File successfully backed up as C:\code\ScriptCombining\Backup\ScriptCombining\Default.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="ScriptCombining" Source="ScriptCombining\Default2.aspx.cs" Description="File successfully backed up as C:\code\ScriptCombining\Backup\ScriptCombining\Default2.aspx.cs">
+</Event><Event ErrorLevel="0" Project="ScriptCombining" Source="ScriptCombining\Default2.aspx.designer.cs" Description="File successfully backed up as C:\code\ScriptCombining\Backup\ScriptCombining\Default2.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="ScriptCombining" Source="ScriptCombining\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\code\ScriptCombining\Backup\ScriptCombining\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ScriptCombining" Source="ScriptCombining\Default.aspx" Description="File successfully backed up as C:\code\ScriptCombining\Backup\ScriptCombining\Default.aspx">
+</Event><Event ErrorLevel="0" Project="ScriptCombining" Source="ScriptCombining\Default2.aspx" Description="File successfully backed up as C:\code\ScriptCombining\Backup\ScriptCombining\Default2.aspx">
+</Event><Event ErrorLevel="0" Project="ScriptCombining" Source="ScriptCombining\Web.config" Description="File successfully backed up as C:\code\ScriptCombining\Backup\ScriptCombining\Web.config">
+</Event><Event ErrorLevel="0" Project="ScriptCombining" Source="ScriptCombining\ScriptCombining.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ScriptCombining" Source="ScriptCombining\ScriptCombining.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ScriptCombining.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ScriptCombining.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ScriptCombining" Source="ScriptCombining\ScriptCombining.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
